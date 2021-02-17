@@ -1,0 +1,26 @@
+{
+  "subscriptions" : [
+    {
+      "subscriptionID" : "S201",
+      "planID" : "P21",
+      "userID" : "U102"
+    },
+    {
+      "subscriptionID" : "S202",
+      "planID" : "P22",
+      "userID" : "U101"
+    },
+    {
+      "subscriptionID" : "S203",
+      "planID" : "P23",
+      "userID" : "U104"
+    },
+    {
+      "subscriptionID" : "S204",
+      "planID" : "P24",
+      "userID" : "U105"
+    }
+
+
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "userID" : "U101",
+      "firstName": "kavya",
+      "lastName" : "manupati",
+      "emailID" : "kavya@gmail.com",
+      "phoneNumber" : "1234561",
+      "subscriptionID" : "S201"
+    },
+    {
+      "userID" : "U102",
+      "firstName": "uday",
+      "lastName" : "vunnam",
+      "emailID" : "uday@gmail.com",
+      "phoneNumber" : "1234562",
+      "subscriptionID" : "S202"
+    },
+    {
+      "userID" : "U103",
+      "firstName": "jithu",
+      "lastName" : "vunnam",
+      "emailID" : "jithu@gmail.com",
+      "phoneNumber" : "1234564",
+      "subscriptionID" : "S203"
+    },
+    {
+      "userID" : "U104",
+      "firstName": "bhagya",
+      "lastName" : "vunnam",
+      "emailID" : "bhagya@gmail.com",
+      "phoneNumber" : "1234565",
+      "subscriptionID" : "S204"
+    },
+    {
+      "userID" : "U105",
+      "firstName": "charishma",
+      "lastName" : "manupati",
+      "emailID" : "cherry@gmail.com",
+      "phoneNumber" : "1234563",
+      "subscriptionID" : "S205"
+    }
+  ]
+}

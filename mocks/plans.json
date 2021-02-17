@@ -1,0 +1,29 @@
+{
+  "plans": [
+    {
+      "planID" : "P24",
+      "planName" : "premium",
+      "planDuration" : "9Months",
+      "planValue" : "950"
+    },
+    {
+      "planID" : "P23",
+      "planName" : "value",
+      "planDuration" : "6Months",
+      "planValue" : "750"
+    },
+    {
+      "planID" : "P22",
+      "planName" : "standard",
+      "planDuration" : "3Months",
+      "planValue" : "550"
+    },
+    {
+      "planID" : "P21",
+      "planName" : "basic",
+      "planDuration" : "1Months",
+      "planValue" : "250"
+    }
+
+  ]
+}
